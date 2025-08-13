@@ -86,7 +86,7 @@ def download_model():
 ---
 
 ## Screenshots
-![Result Screenshot](assets/result.png)
+
 
 ---
 
