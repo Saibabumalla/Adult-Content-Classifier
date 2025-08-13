@@ -36,7 +36,7 @@ Alternatively, you can request access to the dataset by contacting the project a
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/Adult-Content-Classifier.git
+   git clone https://github.com/Saibabumalla/Adult-Content-Classifier.git
    cd Adult-Content-Classifier
    ```
 
@@ -117,5 +117,5 @@ It should not be solely relied upon for production-level content moderation.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/Adult-Content-Classifier.git
+   git clone https://github.com/Saibabumalla/Adult-Content-Classifier.git
    cd Adult-Content-Classifier
