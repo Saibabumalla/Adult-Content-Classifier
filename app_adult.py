@@ -65,3 +65,4 @@ if uploaded_file is not None:
             st.write(result)
         else:
             st.error("Model not loaded correctly. Please try again.")
+
