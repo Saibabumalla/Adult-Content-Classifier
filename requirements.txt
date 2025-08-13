@@ -1,0 +1,8 @@
+streamlit==1.41.1
+tensorflow==2.18.0
+numpy==2.0.2
+pandas==2.2.3
+protobuf==5.29.2
+requests==2.32.3
+Pillow==11.0.0
+gdown
